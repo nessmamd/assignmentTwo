@@ -1,5 +1,5 @@
 # assignmentTwo
-
+HOW TO RUN THE PROGRAM
 1. Create the container named assigment1: 
   - docker build -t assignment1 .
 2. Check if it was created by using this command, if it has been created assignment1 should show up, if not run step one once more.
